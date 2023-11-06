@@ -5,7 +5,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
-
+global.readstatus 'false'
 global.owner = [
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
